@@ -1,5 +1,3 @@
-Here’s the **README.md** file formatted in a **Node.js-style structure** with clear sections and a focus on simplicity and readability. This format is commonly used in Node.js projects and can be adapted for your FastAPI project.
-
 ---
 
 # FastAPI User Authentication Project
